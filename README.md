@@ -7,6 +7,19 @@
 - GATE 2024 Qualified in Data Science and Artificial Intelligence (DA) examination paper.
 - I enjoy solving complex problems and contributing to projects that make a meaningful difference.
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arya-io&show_icons=true&hide_border=true&theme=radical" alt="Arya's GitHub stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arya-io&hide_border=true&theme=radical" alt="Arya's GitHub streaks" />
+</p>
+
+## 💻 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arya-io&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
 ## 💻 Tech Stack
 
 ### Languages
@@ -14,14 +27,6 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arya-io&layout=compact&theme=radical)
-## 📈 Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arya-io&show_icons=true&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arya-io&hide_border=true&theme=radical" />
-</p>
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
