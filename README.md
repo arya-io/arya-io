@@ -1,11 +1,6 @@
 # 👋🏼 Hi, I’m Arya!
 
-## 🚀 About Me
-
-- Recent B.Tech graduate in Artificial Intelligence from G.H. Raisoni College of Engineering with a CGPA of 8.89.
-- Aspiring Data Scientist with a passion for Machine Learning and Data Science.
-- GATE 2024 Qualified in Data Science and Artificial Intelligence (DA) examination paper.
-- I enjoy solving complex problems and contributing to projects that make a meaningful difference.
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ## 📊 GitHub Statistics
 
@@ -19,6 +14,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arya-io&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
+
+## 🚀 About Me
+
+- Recent B.Tech graduate in Artificial Intelligence from G.H. Raisoni College of Engineering with a CGPA of 8.89.
+- Aspiring Data Scientist with a passion for Machine Learning and Data Science.
+- GATE 2024 Qualified in Data Science and Artificial Intelligence (DA) examination paper.
+- I enjoy solving complex problems and contributing to projects that make a meaningful difference.
 
 ## 💻 Tech Stack
 
