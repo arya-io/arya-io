@@ -72,17 +72,6 @@ Welcome to my GitHub profile!
 - **Machine Learning & Data Science**: Constantly enhancing myself in ML algorithms and data analysis techniques.
 - **Typing Speed**: 55+ wpm, 2-Star @CodeChef
 
-## 🎓 Education
-- **B.Tech in Artificial Intelligence**  
-  G.H. Raisoni College of Engineering  
-  CGPA: 8.89 | 2024
-- **12th (Science-General)**  
-  Shri Shivaji Science College  
-  Percentage: 84.15% | 2020
-- **10th**  
-  St. Paul High School  
-  Percentage: 91.60% | 2018
-
 ## 💼 Work Experience
 - **Data Scientist & Social Media Manager**  
   IPL Scoop  
