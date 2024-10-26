@@ -97,7 +97,7 @@ Welcome to my GitHub profile!
 - Contributing to open-source projects to gain practical experience and collaborate with others.
 
 ## 📫 Contact Me
-- [LinkedIn](https://linkedin.com/aryaai)
+- [LinkedIn](https://linkedin.com/in/aryaai)
 
 ## 🎨 Hobbies
 - Star Gazing
