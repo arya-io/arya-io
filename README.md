@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-[![Linkedin: Arya](https://img.shields.io/badge/-Arya-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arya-io/)
+[![Linkedin: Arya](https://img.shields.io/badge/-Arya-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aryaai/)
 ![ProfileViews](https://komarev.com/ghpvc/?username=arya-io&label=Profile+Views)
 
 <p align="center">
