@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=220&section=header&text=Hi%20There%2C%20I%27m%20Arya%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20AI%20%26%20Machine%20Learning%20Enthusiast&descAlignY=55&descSize=18"/>
+# Hi There, I'm Arya 👋
+
+<img src="https://img.shields.io/badge/Data%20Engineer-0f2027?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20%26%20ML%20Enthusiast-203a43?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lakehouse%20Builder-2c5364?style=for-the-badge&logoColor=white"/>
 
 <a href="https://www.linkedin.com/in/aryaai/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -77,20 +81,60 @@ I'm a data engineer who enjoys the plumbing behind the data — moving it, clean
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arya-io&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_seconds=86400"/>
   <img width="49%" src="https://streak-stats.demolab.com/?user=arya-io&hide_border=true&theme=tokyonight&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72"/>
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arya-io&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=86400"/>
 </div>
 
 <div align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=arya-io&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff"/>
 </div>
 
+---
+
+## 🧬 My Journey So Far
+
+```mermaid
+flowchart LR
+    A["🎓 B.Tech, AI
+    G.H. Raisoni College"] --> B["✅ GATE 2024
+    Data Science & AI"]
+    B --> C["📘 DBDA
+    CDAC ACTS, Pune"]
+    C --> D["💼 Data Engineer
+    Bridgenext"]
+    D --> E["🏅 Databricks
+    Certified Data Engineer Associate"]
+
+    style A fill:#0f2027,stroke:#58a6ff,color:#ffffff
+    style B fill:#16323e,stroke:#58a6ff,color:#ffffff
+    style C fill:#1e4552,stroke:#58a6ff,color:#ffffff
+    style D fill:#265866,stroke:#58a6ff,color:#ffffff
+    style E fill:#2c5364,stroke:#58a6ff,color:#ffffff
+```
+
+---
+
+## 📈 Skill Proficiency
+
+| Skill | Level |
+|---|---|
+| Python | ████████░░ 85% |
+| SQL | ████████░░ 80% |
+| PySpark | ████████░░ 80% |
+| Databricks | ███████░░░ 75% |
+| Apache Spark | ███████░░░ 75% |
+| Microsoft Fabric | ██████░░░░ 65% |
+
+---
+
+## 🏆 Highlights
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arya-io&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
+
+<img src="https://img.shields.io/badge/GATE%202024-Qualified-58a6ff?style=for-the-badge&logo=starship&logoColor=white"/>
+<img src="https://img.shields.io/badge/Databricks-Certified%20Data%20Engineer%20Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/B.Tech%20AI-CGPA%208.89-2c5364?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/DBDA-CDAC%20ACTS%20Pune-16323e?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+
 </div>
 
 ---
@@ -166,8 +210,10 @@ Built the "Run Chase Prediction" project and independently managed the company's
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=100&section=footer"/>
+**Thanks for stopping by — always open to a conversation about data pipelines, lakehouses, or anything AI.**
+
+<img src="https://img.shields.io/badge/Made%20with-☕%20%2B%20PySpark-2c5364?style=for-the-badge"/>
 
 </div>
