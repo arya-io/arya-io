@@ -8,9 +8,13 @@
 <img src="https://komarev.com/ghpvc/?username=arya-io&label=Profile%20Views&color=2c5364&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=2c5364&label=Followers&query=%24.followers&suffix=%20followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Farya-io"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Data+Engineer+%40+Bridgenext;Building+scalable+data+pipelines+on+Databricks+%26+Fabric;GATE+2024+Qualified+%7C+AI+Graduate;Turning+raw+data+into+real+decisions" alt="Typing SVG"/>
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8" width="420" alt="Programming GIF"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C5364&center=true&vCenter=true&width=520&size=20&lines=Data+Engineer+%40+Bridgenext;Databricks+%2B+Fabric+%2B+PySpark;GATE+2024+Qualified;Turning+raw+data+into+decisions" alt="Typing SVG"/>
 
 </div>
 
@@ -21,17 +25,19 @@
 ```yaml
 role: Data Engineer @ Bridgenext
 education: B.Tech in Artificial Intelligence — G.H. Raisoni College of Engineering (CGPA: 8.89)
-postgrad: Diploma in Big Data Analytics (DBDA) — CDAC (2025)
+postgrad: Diploma in Big Data Analytics (DBDA) — CDAC ACTS, Pune (2025)
 qualification: GATE 2024 — Data Science & Artificial Intelligence
+certification: Databricks Certified Data Engineer Associate (Feb 2026)
 focus: Data Engineering · Distributed Computing · Applied Machine Learning
 based_in: India
 currently: Designing and optimizing data pipelines on Databricks & Microsoft Fabric
 ```
 
-I'm a data engineer who enjoys the plumbing behind the data — moving it, cleaning it, and shaping it so it's actually usable. My path started in AI and Machine Learning during undergrad, moved through a Big Data Analytics diploma at CDAC, and is now grounded in production data engineering with **Databricks**, **Microsoft Fabric**, and **Spark**. I still keep one foot in ML — I like understanding what happens to the data *after* the pipeline delivers it.
+I'm a data engineer who enjoys the plumbing behind the data — moving it, cleaning it, and shaping it so it's actually usable. My path started in AI and Machine Learning during undergrad, moved through the Big Data Analytics diploma at CDAC ACTS Pune, and is now grounded in production data engineering with **Databricks**, **Microsoft Fabric**, and **Spark**. I still keep one foot in ML — I like understanding what happens to the data *after* the pipeline delivers it.
 
-- 🎓 Recently completed the **DBDA (Diploma in Big Data Analytics)** from **CDAC** (2025)
-- 💼 Working as a **Data Engineer at Bridgenext** since August 2025
+- 🎓 Completed the **DBDA (Diploma in Big Data Analytics)** from **CDAC ACTS, Pune** (2025)
+- 💼 Working as a **Data Engineer at Bridgenext** since September 2025
+- 🏅 **Databricks Certified Data Engineer Associate** (February 2026)
 - 📜 **GATE 2024 Qualified** — Data Science & Artificial Intelligence (DA)
 - ⚙️ Focused on building reliable, scalable data pipelines and lakehouse architectures
 - 🌱 Continuously sharpening skills in distributed data processing and cloud-native engineering
@@ -56,12 +62,7 @@ I'm a data engineer who enjoys the plumbing behind the data — moving it, clean
 <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-
-**Data & ML Libraries**
-<br/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Great%20Expectations-FF6A6A?style=for-the-badge&logo=greatexpectations&logoColor=white"/>
 
 **Tools & Platforms**
 <br/>
@@ -77,7 +78,7 @@ I'm a data engineer who enjoys the plumbing behind the data — moving it, clean
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arya-io&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=arya-io&hide_border=true&theme=tokyonight&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=arya-io&hide_border=true&theme=tokyonight&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72"/>
 </div>
 
 <div align="center">
@@ -101,8 +102,8 @@ I'm a data engineer who enjoys the plumbing behind the data — moving it, clean
 <td>
 
 **Data Engineer** — Bridgenext
-`August 2025 – Present`
-Building and maintaining data pipelines using Databricks, Microsoft Fabric, and PySpark; working across ingestion, transformation, and lakehouse-style data delivery for downstream analytics and reporting.
+`September 2025 – Present`
+Building and maintaining data pipelines using Databricks, Microsoft Fabric, and PySpark; using Great Expectations for data quality and validation; working across ingestion, transformation, and lakehouse-style data delivery for downstream analytics and reporting.
 
 </td>
 </tr>
@@ -122,7 +123,8 @@ Built the "Run Chase Prediction" project and independently managed the company's
 ## 🎓 Education & Certifications
 
 - 🏫 **B.Tech, Artificial Intelligence** — G.H. Raisoni College of Engineering (CGPA: 8.89)
-- 📘 **Diploma in Big Data Analytics (DBDA)** — CDAC, 2025
+- 📘 **Diploma in Big Data Analytics (DBDA)** — CDAC ACTS, Pune, 2025
+- 🏅 **Databricks Certified Data Engineer Associate** — February 2026
 - ✅ **GATE 2024** — Data Science & Artificial Intelligence (DA)
 - ☁️ **Google Cloud Program**
 - 💻 **KLiC Certificate in C++ Programming** — Maharashtra Knowledge Corp. Ltd., Jan 2022
