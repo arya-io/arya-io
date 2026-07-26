@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=arya-io&label=Profile%20Views&color=2c5364&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=2c5364&label=Followers&query=%24.followers&suffix=%20followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Farya-io"/>
+<img src="https://img.shields.io/github/followers/arya-io?style=for-the-badge&color=2c5364&logo=github&label=Followers"/>
 
 <br/><br/>
 
