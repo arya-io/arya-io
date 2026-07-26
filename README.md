@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=220&section=header&text=Hi%20There,%20I'm%20Arya%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20AI%20%26%20Machine%20Learning%20Enthusiast&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=220&section=header&text=Hi%20There%2C%20I%27m%20Arya%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20AI%20%26%20Machine%20Learning%20Enthusiast&descAlignY=55&descSize=18"/>
 
 <a href="https://www.linkedin.com/in/aryaai/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -77,12 +77,12 @@ I'm a data engineer who enjoys the plumbing behind the data — moving it, clean
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arya-io&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arya-io&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_seconds=86400"/>
   <img width="49%" src="https://streak-stats.demolab.com/?user=arya-io&hide_border=true&theme=tokyonight&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72"/>
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arya-io&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arya-io&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=86400"/>
 </div>
 
 <div align="center">
